@@ -1,3 +1,10 @@
+# ATUK
+
+We are currently engaged with ATUK, an owner-operated business.
+
+The project's primary objective is to automate the company's sales process by implementing a virtual shop (e-commerce platform). Through this solution, we anticipate achieving significantly improved sales control and management.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
